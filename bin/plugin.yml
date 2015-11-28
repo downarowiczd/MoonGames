@@ -1,0 +1,12 @@
+name: MoonGames
+version: 2.0
+description: MoonGames
+main: com.downardo.moongames.MoonGames
+author: DOWNARDO
+commands:
+  setlobby:
+    description: SetLobby
+  setmap:
+    description: SetMap
+  stats:
+    description: Stats
